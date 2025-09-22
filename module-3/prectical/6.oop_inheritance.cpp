@@ -18,7 +18,7 @@ class Teacher : public Person
 int main()
 {
 	Student s1;
-	s1.name="Mahek Savaliya";
+	s1.name="jeel Tank";
 	s1.age=21;
 	
 	cout<<"Student name is :"<<s1.name<<endl;
@@ -32,3 +32,4 @@ int main()
 	cout<<"Teacher age is :"<<t1.age<<endl;
 	return 0;
 }
+
